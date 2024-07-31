@@ -1,0 +1,15 @@
+.banner
+{
+    background-color: rgb(0, 0, 0);
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    right: 0;
+ 
+}
+
+#legenda{
+    padding: 3rem;
+    color: white;
+}
+   
